@@ -82,4 +82,4 @@ Here we use the Azure Python SDK with the aid of Jupyter Notebook to create, pub
 
 ## Screen Recording
 
-This [video](https://youtu.be/Pl-cFyxsJJo)shows the entire process of the working ML application
+This [video](https://youtu.be/Pl-cFyxsJJo) shows the entire process of the working ML application
