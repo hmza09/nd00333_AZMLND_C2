@@ -15,7 +15,7 @@ The project had following steps:
 
 ## Project Architectural Diagram
 
-![Architectural Diagram](/screenshots/Architectural Diagram.png =950x)
+![Architectural Diagram](../screenshots/Architectural Diagram.png =950x)
 
 ## Future Work
 
