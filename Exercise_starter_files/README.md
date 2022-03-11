@@ -15,4 +15,23 @@ The project had following steps:
 
 ## Project Architectural Diagram
 
-![Architectural Diagram](../screenshots/Architectural Diagram.png =950x)
+![Architectural Diagram](/screenshots/Architectural Diagram.png =950x)
+
+## Future Work
+
+- Use a parallel run step in the pipeline
+- Test a local container with a downloaded model
+- Using pipelines to automate the whole workflow from data preparation, to machine learning tasks and deployment
+- Using the Apache Benchmark tool to set a measure of optimal performance
+
+## Project Steps
+
+### 1. Authentication
+
+Install Azure ML extension to interact with Azure ML Studio, create Service Principal and associate it to specific workspace.
+
+### 2. Dataset and Automated ML Experiment Run
+
+Uploaded dataset on Azure ML Studio, create a compute cluster in Automated ML run.
+
+![Dataset](/screenshots/dataset.PNG =950x)
