@@ -15,7 +15,7 @@ The project had following steps:
 
 ## Project Architectural Diagram
 
-![Architectural Diagram](../screenshots/Architectural Diagram.png =950x)
+![Architectural Diagram](https://github.com/hmza09/nd00333_AZMLND_C2/blob/master/Exercise_starter_files/screenshots/Architectural%20Diagram.png =950x)
 
 ## Future Work
 
