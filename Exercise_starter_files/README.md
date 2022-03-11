@@ -34,4 +34,19 @@ Install Azure ML extension to interact with Azure ML Studio, create Service Prin
 
 Uploaded dataset on Azure ML Studio, create a compute cluster in Automated ML run.
 
-![Dataset](/screenshots/dataset.PNG =950x)
+![](https://github.com/hmza09/nd00333_AZMLND_C2/blob/master/Exercise_starter_files/screenshots/dataset.PNG)
+
+Experiment Completed
+![] (https://github.com/hmza09/nd00333_AZMLND_C2/blob/master/Exercise_starter_files/screenshots/experiment%20completed.PNG)
+
+Best Model
+![] (https://github.com/hmza09/nd00333_AZMLND_C2/blob/master/Exercise_starter_files/screenshots/best_model.PNG)
+
+### 3. Deploying Model and Enable Logging
+
+Best model was deployed using Azure Container Instance and we can access endpoints through which other service can interact with our deployed model.
+After deploying our best model, we can enable Application Insights and retrieve log.
+The logs.py was used to enable application insights
+![] (https://github.com/hmza09/nd00333_AZMLND_C2/blob/master/Exercise_starter_files/screenshots/logs.PNG)
+
+![] (https://github.com/hmza09/nd00333_AZMLND_C2/blob/master/Exercise_starter_files/screenshots/app%20insight%20enabled.PNG)
