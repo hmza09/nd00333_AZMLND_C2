@@ -78,7 +78,11 @@ Here we use the Azure Python SDK with the aid of Jupyter Notebook to create, pub
 
 #### Status Active
 
-![](https://github.com/hmza09/nd00333_AZMLND_C2/blob/master/Exercise_starter_files/screenshots/status%20pipeline.PNG)
+![](https://github.com/hmza09/nd00333_AZMLND_C2/blob/master/Exercise_starter_files/screenshots/Status%20Active.PNG)
+
+#### Rest Endpoint
+
+![](https://github.com/hmza09/nd00333_AZMLND_C2/blob/master/Exercise_starter_files/screenshots/Rest%20Endpoint.PNG)
 
 ## Screen Recording
 
